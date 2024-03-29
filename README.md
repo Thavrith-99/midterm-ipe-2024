@@ -1,2 +1,2 @@
 # midterm-ipe-2024
-The work of student <SROAS THAVRITH>.
+The work of student <SROASTHAVRITH>.
